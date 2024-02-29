@@ -47,5 +47,5 @@ Hi 👋, I'm Najeeb Ahmad !Proficient in front-end & Back-end Technology 😊
 
 ## Demo
 
- [View Live😊](https://najeebahmad07.github.io/bharat.netflix/)
+ [View Live😊](https://bharat-netflix.vercel.app/)
 
